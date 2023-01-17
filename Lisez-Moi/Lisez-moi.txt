@@ -1,0 +1,1 @@
+Utiliser Uniquement l'élément compressé Pour le travail et deplacer-le dans un autre dossier hors du dossier cloner pour pourvoir initialiser l'element compressé a la décompression.
